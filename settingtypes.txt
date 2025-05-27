@@ -1,0 +1,2 @@
+# Doesn't affect existing worlds
+floor_color (Floor color) enum White Red,Blue,Yellow,Green,Orange,Purple,Black,White
